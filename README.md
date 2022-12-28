@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Pranav</a></h1>
-<h3 align="center">A passionate iOS developer</h3>
+<h3 align="center">A passionate mobile app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavkumark13&label=Profile%20views&color=0e75b6&style=flat" alt="Pranavkumark13" /> </p>
 <a target="_blank" align="center">
@@ -34,4 +34,4 @@ Pranav</a></h1>
 
 </p>
 
-Last Updated on: 07/09/2022
+Last Updated on: 28/12/2022
