@@ -7,13 +7,11 @@ Pranav</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Zoho Corporation</a>
+- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">BiCSoM</a>
 
-- 🌱 I’m currently Working on Mobile App(iOS)
+- 🌱 I’m currently Working on Mobile App(Flutter)
 
-- 🌱 I have previously worked on Flutter and Native android as well.
-
-- 💬 Ask me about **Flutter & iOS Dev**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **pranavk1310@gmail.com**
 
