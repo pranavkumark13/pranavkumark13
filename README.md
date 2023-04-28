@@ -7,9 +7,9 @@ Pranav</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">BiCSoM</a>
+- 🔭 I’m currently working at <a href="https://phoenix.tech/griffyn/" target="blank">BiCSoM</a>
 
-- 🌱 I’m currently Working on Mobile App(Flutter)
+- 🌱 I’m currently Working on Mobile App(Flutter) and Node JS.
 
 - 💬 Ask me about **Flutter**
 
@@ -32,4 +32,4 @@ Pranav</a></h1>
 
 </p>
 
-Last Updated on: 28/12/2022
+Last Updated on: 28/04/2023
